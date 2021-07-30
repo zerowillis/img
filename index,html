@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title></title>
+<title>Upload</title>
 </head>
 <body>
 <p><input type="file"  accept="image/*" name="image" id="file"  onchange="loadFile(event)" style="display: none;"></p>
